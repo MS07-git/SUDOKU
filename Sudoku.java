@@ -542,7 +542,6 @@ public class Sudoku extends Frame implements KeyListener,WindowListener,ActionLi
 
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
-		// TODO Auto-generated method stub
 		
 		if(arg0.getSource()==reset)
 		{
